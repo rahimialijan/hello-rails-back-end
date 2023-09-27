@@ -1,24 +1,123 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 📗 Table of Contents
 
-Things you may want to cover:
+- [📖 About the Project](#about-project)
+  - [🚀 Frontend App](#frontend)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🔭 Video Presentation](#video)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgments](#acknowledgements)
+- [📝 License](#license)
 
-* Ruby version
+<!-- PROJECT DESCRIPTION -->
 
-* System dependencies
+# 📖 "Set up a "Hello world" project with two apps<a name="about-project"></a>
 
-* Configuration
+**[Description]**
 
-* Database creation
+Now I am familiar with Rails and React, it's time to put them together in a new kind of 'Hello World!' app. In this exercise, I created a React front-end with a Rails back-end and connected them to display a random message.
 
-* Database initialization
+## 🚀 Frontend App <a name="frontend"></a>
 
-* How to run the test suite
+- [Click here to navigate to the Frontend ](https://github.com/rahimialijan/hello-rails-back-end)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🛠 Built With <a name="built-with"></a>
 
-* Deployment instructions
+### Tech Stack <a name="tech-stack"></a>
 
-* ...
+- Ruby on Rails >=7
+- React
+- Postgres
+
+### Key Features <a name="key-features"></a>
+
+- Connection between Ruby on Rails and React in different apps
+- API endpoint for random greetings
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+- [Ruby on Rails >=7](https://rubyonrails.org/)
+- [React](https://reactjs.org/)
+- [Postgres](https://www.postgresql.org/)
+
+### Install Backend and Frontend
+
+```
+git clone https://github.com/rahimialijan/hello-rails-back-end.git
+cd hello-rails-back-end
+bundle install
+```
+
+```
+git clone https://github.com/rahimialijan/hello-react-front-end
+cd hello-react-front-end
+npm install
+```
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Marco Díaz**
+
+- GitHub: [@Alijan-Rahimi](https://github.com/rahimialijan)
+- Twitter: [@AlijanRahimi10](https://twitter.com/AlijanRahimi10)
+- LinkedIn: [Alijan-Rahimi](https://www.linkedin.com/in/alijan-rahimi-18389ab3)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Add more gretings
+- Add extra styling
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you found this project helpful, consider giving a ⭐️!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Acknowledgements to Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
