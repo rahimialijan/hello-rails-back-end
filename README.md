@@ -73,7 +73,7 @@ npm install
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Marco Díaz**
+👤 **Alijan**
 
 - GitHub: [@Alijan-Rahimi](https://github.com/rahimialijan)
 - Twitter: [@AlijanRahimi10](https://twitter.com/AlijanRahimi10)
